@@ -1,0 +1,114 @@
+<filelist>
+	<wad>bfgdoom2.wad</wad>
+	<wad>doom2bfg.wad</wad>
+	<wad>doom2f.wad</wad>
+	<wad>doom2.wad</wad>
+	<wad>plutonia.wad</wad>
+	<wad>tnt.wad</wad>
+	<wad>bfgdoom.wad</wad>
+	<wad>doombfg.wad</wad>
+	<wad>doomu.wad</wad>
+	<wad>doom.wad</wad>
+	<wad>doom1.wad</wad>
+	<wad>heretic.wad</wad>
+	<wad>heretic1.wad</wad>
+	<wad>hexen.wad</wad>
+	<wad>hexdd.wad</wad>
+	<wad>hexendemo.wad</wad>
+	<wad>hexdemo.wad</wad>
+	<wad>strife1.wad</wad>
+	<wad>strife0.wad</wad>
+	<wad>strife.wad</wad>
+	<wad>freedoom1.wad</wad>
+	<wad>freedoom2.wad</wad>
+	<wad>freedoomu.wad</wad>
+	<wad>freedoom.wad</wad>
+	<wad>freedm.wad</wad>
+	<wad>blasphem.wad</wad>
+	<wad>blasphemer.wad</wad>
+	<wad>chex.wad</wad>
+	<wad>chex3.wad</wad>
+	<wad>action2.wad</wad>
+	<wad>harm1.wad</wad>
+	<wad>hacx.wad</wad>
+	<wad>hacx2.wad</wad>
+</filelist>
+
+<MD5Hashes> <MD5 name="" hash="" />
+	<!-- Doom -->
+	<MD5 name="Doom 1.1" hash="981b03e6d1dc033301aa3095acc437ce" />
+	<MD5 name="Doom 1.2" hash="792fd1fea023d61210857089a7c1e351" />
+	<MD5 name="Doom 1.666" hash="54978d12de87f162b9bcc011676cb3c0" />
+	<MD5 name="Doom 1.8" hash="11e1cd216801ea2657723abc86ecb01f" />
+	<MD5 name="Doom 1.9" hash="1cd63c5ddff1bf8ce844237f580e9cf3" />
+	<MD5 name="The Ultimate Doom 1.9ud" hash="c4fe9fd920207691a9f493668e0a2083" />
+	<MD5 name="Doom (Xbox Version)" hash="0c8758f102ccafe26a3040bee8ba5021" />
+	<MD5 name="Doom (PSN Version)" hash="e4f120eab6fb410a5b6e11c947832357" />
+	<MD5 name="Doom BFG Edition" hash="fb35c4a5a9fd49ec29ab6e900572c524" />
+	
+	<!-- Doom II -->
+	<MD5 name="Doom II 1.666" hash="30e3c2d0350b67bfbf47271970b74b2f" />
+	<MD5 name="Doom II 1.666g" hash="d9153ced9fd5b898b36cc5844e35b520" />
+	<MD5 name="Doom II 1.7" hash="ea74a47a791fdef2e9f2ea8b8a9da13b" />
+	<MD5 name="Doom II 1.7a" hash="d7a07e5d3f4625074312bc299d7ed33f" />
+	<MD5 name="Doom II 1.8" hash="c236745bb01d89bbb866c8fed81b6f8c" />
+	<MD5 name="Doom II 1.9" hash="25e1459ca71d321525f84628f45ca8cd" />
+	<MD5 name="Doom II BFG Edition" hash="c3bea40570c23e511a7ed3ebcd9865f7" />
+	<MD5 name="Doom II BFG Edition (Xbox 360 version)" hash="f617591a6c5d07037eb716dc4863e26b" />
+	<MD5 name="Doom II (XBLA Version)" hash="43c2df32dc6c740cb11f34dc5ab693fa" />
+	<MD5 name="Doom II (Xbox ROE Version)" hash="a793ebcdd790afad4a1f39cc39a893bd" />
+	<MD5 name="Doom II (PSN Version)" hash="4c3db5f23b145fccd24c9b84aba3b7dd" />
+	
+	<!-- Freedoom -->
+	<MD5 name="Freedoom: Phase 1 0.8beta1" hash="2a24722c068d3a74cd16f770797ff198" />
+	<MD5 name="Freedoom: Phase 2 0.8beta1" hash="0597b0937e9615a9667b98077332597d" />
+	
+	<!-- TNT: Evilution -->
+	<MD5 name="Final Doom - TNT: Evilution 1.9" hash="4e158d9953c79ccf97bd0663244cc6b6" />
+	<MD5 name="Final Doom - TNT: Evilution 1.9 (id Anthology Version)" hash="1d39e405bf6ee3df69a8d2646c8d5c49" />
+	<MD5 name="Final Doom - TNT: Evilution 1.9 (PSN Version)" hash="be626c12b7c9d94b1dfb9c327566b4ff" />
+	
+	<!-- Plutonia -->
+	<MD5 name="Final Doom - The Plutonia Experiment 1.9" hash="75c8cf89566741fa9d22447604053bd7" />
+	<MD5 name="Final Doom - The Plutonia Experiment 1.9 (id Anthology Version)" hash="3493be7e1e2588bc9c8b31eab2587a04" />
+	<MD5 name="Final Doom - The Plutonia Experiment 1.9 (PSN Version)" hash="b77ca6a809c4fae086162dad8e7a1335" />
+	
+	<!-- Hacx -->
+	<MD5 name="Hacx 1.0" hash="1511a7032ebc834a3884cf390d7f186e" />
+	<MD5 name="Hacx 1.1" hash="b7fd2f43f3382cf012dc6b097a3cb182" />
+	<MD5 name="Hacx 1.2" hash="65ed74d522bdf6649c2831b13b9e02b4" />
+	
+	<!-- Hacx 2.0 -->
+	<MD5 name="Hacx 2.0 2.0r58" hash="ad8db94ef3bdb8522f57d4c5b3b92bd7" />
+	<MD5 name="Hacx 2.0 2.0r61" hash="793f07ebadb3d7353ee5b6b6429d9afa" />
+	
+	<!-- Strife -->
+	<MD5 name="Strife: Teaser 1.1" hash="bb545b9c4eca0ff92c14d466b3294023" />
+	<MD5 name="Strife: Teaser -Unknown- (1.0?)" hash="de2c8dcad7cca206292294bdab524292" />
+	<MD5 name="Strife: Quest For The Sigil 1.2-1.31" hash="2fed2031a5b03892106e0f117f17901f" />
+	<MD5 name="Strife: Quest For The Sigil 1.0" hash="8f2d3a6a289f5d2f2f9c1eec02b47299" />
+	
+	<!-- Harmony -->
+	<MD5 name="Harmony 1.1" hash="fe2cce6713ddcf6c6d6f0e8154b0cb38" />
+	
+	<!-- Chex Quest -->
+	<MD5 name="Chex Quest" hash="25485721882b050afa96a56e5758dd52" />
+	<MD5 name="Chex Quest 3 1.0" hash="59c985995db55cd2623c1893550d82b3" />
+	<MD5 name="Chex Quest 3 1.1?" hash="bce163d06521f9d15f9686786e64df13" />
+	
+	<!-- Heretic -->
+	<MD5 name="Shareware Heretic Beta" hash="fc7eab659f6ee522bb57acc1a946912f" />
+	<MD5 name="Shareware Heretic 1.0" hash="023b52175d2f260c3bdc5528df5d0a8c" />
+	<MD5 name="Shareware Heretic 1.2" hash="ae779722390ec32fa37b0d361f7d82f8" />
+	<MD5 name="Heretic 1.0" hash="3117e399cdb4298eaa3941625f4b2923" />
+	<MD5 name="Heretic 1.2" hash="1e4cb4ef075ad344dd63971637307e04" />
+	<MD5 name="Heretic 1.3" hash="66d686b1ed6d35ff103f15dbd30e0341" />
+	
+	<!-- Hexen -->
+	<MD5 name="Hexen Demo Beta" hash="9178a32a496ff5befebfe6c47dac106c" />
+	<MD5 name="Hexen Demo 1.0" hash="876a5a44c7b68f04b3bb9bc7a5bd69d6" />
+	<MD5 name="Hexen Beta" hash="c88a2bb3d783e2ad7b599a8e301e099e" />
+	<MD5 name="Hexen 1.0" hash="b2543a03521365261d0a0f74d5dd90f0" />
+	<MD5 name="Hexen 1.1" hash="abb033caf81e26f12a2103e1fa25453f" />
+	<MD5 name="Action Doom 2: Urban Brawl" hash="1914b280b0a4b517214523bc2270e758" />
+</MD5Hashes>
